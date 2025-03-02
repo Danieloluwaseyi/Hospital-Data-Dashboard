@@ -1,10 +1,10 @@
-Hospital Data Dashboard
+# Hospital Data Dashboard
 
-Overview
+## Overview
 
 The Hospital Data Dashboard is a visual analytics tool designed to provide insights into hospital operations, patient distribution, and financial performance. It enables users to analyze key metrics such as patient count by financial class, doctor performance, revenue generation, and patient visit trends.
 
-Features
+## Features
 
 Slicers for Filtering Data:
 
@@ -12,7 +12,7 @@ Filter by Doctor Type (Anchor, Floating, Locum)
 
 Filter by Financial Class (Corporate, HMO, Insurance, Medicare, Private)
 
-Key Metrics Displayed:
+## Key Metrics Displayed:
 
 Total patients categorized by financial class
 
@@ -24,13 +24,13 @@ Highest generated medication revenue
 
 Day of the week with the least patient visits
 
-Visualizations:
+## Visualizations:
 
 Pie charts for patient distribution and wait times
 
 Bar charts for revenue analysis and patient visit trends
 
-Data Insights
+## Data Insights
 
 Financial Class Analysis:
 
@@ -56,15 +56,15 @@ Monday has the highest patient visits (6982)
 
 Sunday has the lowest patient visits (3010)
 
-Usage
+## Usage
 
 The dashboard allows hospital administrators and stakeholders to make data-driven decisions.
+Usage
 
 It can help optimize doctor scheduling and improve financial performance.
 
 Identifying least busy days can aid in resource planning.
 
-Conclusion
+## Conclusion
 
 The Hospital Data Dashboard provides a comprehensive overview of key hospital metrics, offering valuable insights into operational efficiency, financial performance, and patient trends. This tool enhances decision-making processes and contributes to hospital management optimization.
-
