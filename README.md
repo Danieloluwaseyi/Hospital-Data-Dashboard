@@ -65,6 +65,10 @@ It can help optimize doctor scheduling and improve financial performance.
 
 Identifying least busy days can aid in resource planning.
 
+## Tools
+
+This project was conducted solely with the use of Microsoft Excel.
+
 ## Conclusion
 
 The Hospital Data Dashboard provides a comprehensive overview of key hospital metrics, offering valuable insights into operational efficiency, financial performance, and patient trends. This tool enhances decision-making processes and contributes to hospital management optimization.
